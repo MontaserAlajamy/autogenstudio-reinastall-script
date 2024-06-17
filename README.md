@@ -1,0 +1,1 @@
+# autogenstudio-reinastall-script
